@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Arun Kumar!
 
 🎓 B.Tech Final Year Student | Electronics & Communication Engineering  
-💻 Passionate about Embedded Systems, Java Development & Machine Learning  
+💻 Passionate about Embedded Systems, Python, SQL, Java Development & Machine Learning  
 📍 India | 🌐 [LinkedIn](https://linkedin.com/in/arun-kumar-771002314)
 
 ---
